@@ -1,0 +1,14 @@
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\bin\Debug\net10.0\Semana02.exe
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\bin\Debug\net10.0\Semana02.deps.json
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\bin\Debug\net10.0\Semana02.runtimeconfig.json
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\bin\Debug\net10.0\Semana02.dll
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\bin\Debug\net10.0\Semana02.pdb
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\obj\Debug\net10.0\Semana02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\obj\Debug\net10.0\Semana02.AssemblyInfoInputs.cache
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\obj\Debug\net10.0\Semana02.AssemblyInfo.cs
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\obj\Debug\net10.0\Semana02.csproj.CoreCompileInputs.cache
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\obj\Debug\net10.0\Semana02.dll
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\obj\Debug\net10.0\refint\Semana02.dll
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\obj\Debug\net10.0\Semana02.pdb
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\obj\Debug\net10.0\Semana02.genruntimeconfig.cache
+C:\Users\Det-Pc\Desktop\Estructura de datos\Semana02\obj\Debug\net10.0\ref\Semana02.dll
